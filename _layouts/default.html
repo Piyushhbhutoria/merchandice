@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="{{ "/" | relative_url }}">
+          {{ site.title }} <span>studio</span>
+        </a>
+        <div class="nav-links">
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/contact" | relative_url }}">Contact</a>
+          <a href="{{ "/privacy-policy" | relative_url }}">Privacy</a>
+          <a href="{{ "/terms-of-use" | relative_url }}">Terms</a>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap">
+      <div class="bg-shape shape-1"></div>
+      <div class="bg-shape shape-2"></div>
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      Built with curious ideas and bold color.
+    </footer>
+  </body>
+</html>
