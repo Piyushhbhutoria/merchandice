@@ -180,6 +180,14 @@ li {
   box-shadow: 4px 4px 0 rgba(28, 28, 28, 0.2);
 }
 
+.card-logo {
+  display: block;
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
 footer.site-footer {
   border-top: 2px dashed var(--stroke);
   padding: 24px;

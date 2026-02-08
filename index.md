@@ -30,14 +30,17 @@ Explore our focused micro-apps built for quick, delightful experiences:
 
 <div class="cards">
   <div class="card">
+    <img class="card-logo" src="/assets/logos/lovelink%20logo.png" alt="Lovelink logo">
     <h3><a href="https://lovelink.merchandice.in">Lovelink</a></h3>
     <p>A custom valentine's day site generator.</p>
   </div>
   <div class="card">
+    <img class="card-logo" src="/assets/logos/memorywall%20logo.png" alt="Memorywall logo">
     <h3><a href="https://memorywall.merchandice.in">Memorywall</a></h3>
     <p>A simple wall for collecting memories, snapshots in one place.</p>
   </div>
   <div class="card">
+    <img class="card-logo" src="/assets/logos/lovecalc%20logo.webp" alt="Love Calculator logo">
     <h3><a href="https://crush-scale.lovable.app/">Love Calculator</a></h3>
     <p>A simple love calculator to explore compatibility between two people, just for fun.</p>
   </div>
