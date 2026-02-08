@@ -2,7 +2,7 @@ title: Merchandice
 description: Merchandice is a platform for creating and managing your own merchandise.
 theme: minima
 url: "https://merchandice.in"
-baseurl: ""
+baseurl: "/merchandice"
 markdown: kramdown
 plugins:
   - jekyll-sitemap
